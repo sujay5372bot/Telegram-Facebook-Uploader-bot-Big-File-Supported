@@ -1,0 +1,16 @@
+{
+  "123456789": {
+    "is_premium": true,
+    "uploads": 0,
+    "referrals": 3,
+    "ref_code": "abc123",
+    "referred_by": null
+  },
+  "987654321": {
+    "is_premium": false,
+    "uploads": 1,
+    "referrals": 0,
+    "ref_code": "xyz789",
+    "referred_by": "abc123"
+  }
+}
